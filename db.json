@@ -1,0 +1,19 @@
+{
+  "carts": [
+    {
+      "name": "product 1",
+      "image": "images/product-1-1.png",
+      "price": 300,
+      "path": "/product-1.html",
+      "quan": 1,
+      "id": 1
+    }
+  ],
+  "products": [],
+  "Noification": [{"id":1, "content": " thông báo 1", "path": "/2"},
+    {"id":2, "content": " thông báo 2", "path": "/2"},
+    {"id":3, "content": " thông báo 3", "path": "/2"},
+    {"id":4, "content": " thông báo 4", "path": "/2"},
+    {"id":5, "content": " thông báo 5", "path": "/2"}
+    ]
+}
