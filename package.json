@@ -2,7 +2,7 @@
   "name": "nckh",
   "version": "0.1.0",
   "main": "index.js",
-  "homepage": "https://augensternH.github.io/demo/",
+  "homepage": "https://augensternH.github.io/demo",
   "private": true,
   "dependencies": {
     "@fortawesome/react-fontawesome": "^0.1.17",
