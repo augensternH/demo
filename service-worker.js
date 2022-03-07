@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/augenstern.github.io/precache-manifest.12f6629a699daf682b7d17c9c5e8fdf9.js"
+  "/augenstern.github.io/precache-manifest.fba085d2ed6f68ec92b77d6b9bea28f2.js"
 );
 
 workbox.clientsClaim();
