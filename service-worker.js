@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/augenstern.github.io/precache-manifest.fba085d2ed6f68ec92b77d6b9bea28f2.js"
+  "/demo/precache-manifest.4e9bfbc6ca430fe0729fba396417a86d.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/augenstern.github.io/index.html", {
+workbox.routing.registerNavigationRoute("/demo/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
