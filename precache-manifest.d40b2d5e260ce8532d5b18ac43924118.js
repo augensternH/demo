@@ -108,12 +108,12 @@ self.__precacheManifest = [
     "url": "/demo/static/media/love.fe1eb62f.png"
   },
   {
-    "revision": "f97e3bbf73254b0112091d0192f17aec",
-    "url": "/demo/static/media/slick.f97e3bbf.svg"
-  },
-  {
     "revision": "ced611daf7709cc778da928fec876475",
     "url": "/demo/static/media/slick.ced611da.eot"
+  },
+  {
+    "revision": "f97e3bbf73254b0112091d0192f17aec",
+    "url": "/demo/static/media/slick.f97e3bbf.svg"
   },
   {
     "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
