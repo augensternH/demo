@@ -2,7 +2,6 @@
   "name": "nckh",
   "version": "0.1.0",
   "main": "index.js",
-  "homepage": "https://augensternH.github.io/demo",
   "private": true,
   "dependencies": {
     "@fortawesome/react-fontawesome": "^0.1.17",
@@ -43,8 +42,6 @@
     "yarn": "^1.22.17"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "set PORT=3030 && react-scripts start",
     "build": "react-scripts build"
   },
