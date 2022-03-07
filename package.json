@@ -17,8 +17,6 @@
     "draft-js": "^0.11.7",
     "fs": "^0.0.1-security",
     "json-server": "^0.17.0",
-    "msnodesqlv8": "^2.4.6",
-    "mssql": "^8.0.2",
     "net": "^1.0.2",
     "os": "^0.1.2",
     "react": "^17.0.2",
@@ -42,7 +40,7 @@
     "yarn": "^1.22.17"
   },
   "scripts": {
-    "start": "set PORT=3030 && react-scripts start",
+    "start": "react-scripts start",
     "build": "react-scripts build"
   },
   "eslintConfig": {
